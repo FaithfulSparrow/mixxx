@@ -2895,6 +2895,7 @@ if(BUILD_TESTING)
     src/test/durationutiltest.cpp
     #TODO: write useful tests for refactored effects system
     #src/test/effectchainslottest.cpp
+    src/test/enginebufferscalegaptest.cpp
     src/test/enginebufferscalelineartest.cpp
     src/test/enginebuffertest.cpp
     src/test/enginefilterbiquadtest.cpp
